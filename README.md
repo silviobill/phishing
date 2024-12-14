@@ -1,4 +1,3 @@
-# phishing
 Criação de um phishing usando o Kali linux.
 Realização em ambiente monitorado e apenas para fins de estudo.
 
